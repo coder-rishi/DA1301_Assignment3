@@ -8,3 +8,13 @@ My hobbies include music and chess, and I love doing math.
 
 I'm learning .md syntax : **this is bold right?** and *italic text*
 Yo.
+
+
+---------This was added after the initial commits------------
+
+I am learning how Git and GitHub work together.
+# What I learned
+* commits
+* pushes
+* merges (bypass pull request)
+
